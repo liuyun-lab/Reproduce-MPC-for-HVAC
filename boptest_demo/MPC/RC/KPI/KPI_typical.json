@@ -1,0 +1,176 @@
+[
+    {
+        "weight": 0.0,
+        "Energy cost": 0,
+        "Thermal discomfort": 1086.504715445362,
+        "Time cost": 60.43034100532532
+    },
+    {
+        "weight": 0.01,
+        "Energy cost": 0,
+        "Thermal discomfort": 1086.504715445362,
+        "Time cost": 56.17498183250427
+    },
+    {
+        "weight": 0.02,
+        "Energy cost": 0,
+        "Thermal discomfort": 1086.504715445362,
+        "Time cost": 54.40539216995239
+    },
+    {
+        "weight": 0.03,
+        "Energy cost": 0,
+        "Thermal discomfort": 1086.504715445362,
+        "Time cost": 54.276386737823486
+    },
+    {
+        "weight": 0.04,
+        "Energy cost": 0,
+        "Thermal discomfort": 1086.504715445362,
+        "Time cost": 52.32502794265747
+    },
+    {
+        "weight": 0.05,
+        "Energy cost": 0,
+        "Thermal discomfort": 1086.504715445362,
+        "Time cost": 49.771634101867676
+    },
+    {
+        "weight": 0.06,
+        "Energy cost": 0.023438850363556033,
+        "Thermal discomfort": 897.0035510380964,
+        "Time cost": 49.669588565826416
+    },
+    {
+        "weight": 0.06999999999999999,
+        "Energy cost": 0.10274148816877166,
+        "Thermal discomfort": 476.5774290475077,
+        "Time cost": 51.95819878578186
+    },
+    {
+        "weight": 0.08,
+        "Energy cost": 0.183137416554524,
+        "Thermal discomfort": 232.79042650541518,
+        "Time cost": 49.54446816444397
+    },
+    {
+        "weight": 0.09,
+        "Energy cost": 0.2376831819328862,
+        "Thermal discomfort": 92.93611989210223,
+        "Time cost": 44.74744939804077
+    },
+    {
+        "weight": 0.1,
+        "Energy cost": 0.2606835148595864,
+        "Thermal discomfort": 68.37905882885231,
+        "Time cost": 47.08778119087219
+    },
+    {
+        "weight": 0.11000000000000001,
+        "Energy cost": 0.27336495798337584,
+        "Thermal discomfort": 48.78255108766514,
+        "Time cost": 60.60313057899475
+    },
+    {
+        "weight": 0.12,
+        "Energy cost": 0.28599546652443497,
+        "Thermal discomfort": 35.74107477091618,
+        "Time cost": 54.8893780708313
+    },
+    {
+        "weight": 0.13,
+        "Energy cost": 0.2922565866428287,
+        "Thermal discomfort": 30.9608715781132,
+        "Time cost": 68.09289526939392
+    },
+    {
+        "weight": 0.13999999999999999,
+        "Energy cost": 0.2974100782076363,
+        "Thermal discomfort": 25.683047540834824,
+        "Time cost": 49.95362305641174
+    },
+    {
+        "weight": 0.15,
+        "Energy cost": 0.29835054157831187,
+        "Thermal discomfort": 22.838595371902674,
+        "Time cost": 42.229129791259766
+    },
+    {
+        "weight": 0.16,
+        "Energy cost": 0.31050185981407824,
+        "Thermal discomfort": 17.649102287107596,
+        "Time cost": 58.823484659194946
+    },
+    {
+        "weight": 0.16999999999999998,
+        "Energy cost": 0.32015227187229955,
+        "Thermal discomfort": 16.36708561157888,
+        "Time cost": 47.28785014152527
+    },
+    {
+        "weight": 0.18,
+        "Energy cost": 0.3217097487690591,
+        "Thermal discomfort": 15.520501521961378,
+        "Time cost": 46.78884935379028
+    },
+    {
+        "weight": 0.19,
+        "Energy cost": 0.32126737807895855,
+        "Thermal discomfort": 12.344806454893288,
+        "Time cost": 56.44237422943115
+    },
+    {
+        "weight": 0.2,
+        "Energy cost": 0.31544668428547057,
+        "Thermal discomfort": 10.396254780828608,
+        "Time cost": 49.83760738372803
+    },
+    {
+        "weight": 0.3,
+        "Energy cost": 0.3324161644184387,
+        "Thermal discomfort": 6.861855763669391,
+        "Time cost": 43.406954765319824
+    },
+    {
+        "weight": 0.4,
+        "Energy cost": 0.3420268254238122,
+        "Thermal discomfort": 6.913598617143726,
+        "Time cost": 40.46623873710632
+    },
+    {
+        "weight": 0.5,
+        "Energy cost": 0.3394652764117932,
+        "Thermal discomfort": 5.3907035607225815,
+        "Time cost": 41.78582406044006
+    },
+    {
+        "weight": 0.6,
+        "Energy cost": 0.3394652764117932,
+        "Thermal discomfort": 5.3907035607225815,
+        "Time cost": 40.48086643218994
+    },
+    {
+        "weight": 0.7,
+        "Energy cost": 0.3426784524962422,
+        "Thermal discomfort": 5.386540132832371,
+        "Time cost": 42.72244310379028
+    },
+    {
+        "weight": 0.8,
+        "Energy cost": 0.3505505711277888,
+        "Thermal discomfort": 5.7943820060231594,
+        "Time cost": 40.59958100318909
+    },
+    {
+        "weight": 0.9,
+        "Energy cost": 0.3505505711277888,
+        "Thermal discomfort": 5.7943820060231594,
+        "Time cost": 51.9425950050354
+    },
+    {
+        "weight": 1.0,
+        "Energy cost": 0.3505505711277888,
+        "Thermal discomfort": 5.7943820060231594,
+        "Time cost": 54.37053656578064
+    }
+]
